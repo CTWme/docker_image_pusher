@@ -1,2 +1,4 @@
 # cowrie/cowrie
 cowrie/cowrie:latest
+# mysql
+mysql:latest
