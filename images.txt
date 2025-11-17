@@ -2,3 +2,4 @@
 cowrie/cowrie:latest
 # mysql
 mysql:latest
+python:latest
