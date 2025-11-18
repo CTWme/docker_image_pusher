@@ -4,4 +4,4 @@ cowrie/cowrie:latest
 mysql:latest
 python:latest
 ubuntu:resolute-20251101
-vllm/vllm-openai:lateset
+vllm/vllm-openai:nightly-5bb1da5190b54aefb08478c6b1170f97722b8bdb
